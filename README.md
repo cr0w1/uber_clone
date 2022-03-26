@@ -45,27 +45,10 @@
 ---
 
 ## ⚙️ Funcionalidades
-[//]: <> (- [ ] Empresas ou entidades podem se cadastrar na plataforma web enviando:
-  - [ ] uma imagem do ponto de coleta
-  - [ ] nome da entidade, email e whatsapp
-  - [ ] e o endereço para que ele possa aparecer no mapa
-  - [ ] além de selecionar um ou mais ítens de coleta: 
 
-
-- [ ] Os usuários tem acesso ao aplicativo móvel, onde podem:
-)
----
 
 ## 🎨 Layout
-[//]: <> (
-### Mobile
 
-<p align="center">
-  <a href="https://imgur.com/WDzm4gX"><img src="https://i.imgur.com/WDzm4gX.png" title="source: imgur.com" height="400px"/></a>
-  <a href="https://imgur.com/fS3tup1"><img src="https://i.imgur.com/fS3tup1.png" title="source: imgur.com" height="400px" width="190px"/></a>
-</p>
-
-)
 ---
 
 ## 🚀 Como executar o projeto
